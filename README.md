@@ -14,7 +14,8 @@ This project showcases my work during the UX/UI Design course (60 hours) at the 
 
 
 ## 📄 Certificate
-Attached: `file:///C:/Users/fares/Downloads/ux_ui%20ITI.pdf`
+Attached: `https://drive.google.com/file/d/179dAooTDtCg5u311gYySMDEzLJmlenY1/view?usp=drive_link`
 
+Figma Design
 [View the full Figma design](https://www.figma.com/design/RSMiYk2rpA2IqoJdD3SP0l/Untitled?node-id=0-1)
 
